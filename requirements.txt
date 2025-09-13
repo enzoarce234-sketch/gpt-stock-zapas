@@ -1,0 +1,4 @@
+pandas
+openpyxl
+streamlit==1.36.0
+openai>=1.30.0
